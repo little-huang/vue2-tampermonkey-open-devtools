@@ -1,6 +1,6 @@
 ## Getting Started
 
-要使用这个js，你需要安装 Tampermonkey Chrome插件和Vue.js devtools插件。
+要使用这个js，你需要安装 Tampermonkey 扩展和 Vue.js devtools 扩展。
 
 [Tampermonkey - Chrome 网上应用店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
