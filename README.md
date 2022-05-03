@@ -32,7 +32,7 @@
 
 ![image](images/script-status.png)
 
-## Use
+## Usage
 
 ### 测试是否可用
 
